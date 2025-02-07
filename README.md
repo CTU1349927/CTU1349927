@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @CTU1349927
+- 👋 Hi, I’m Earl
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning Information Systems
 - 💞️ I’m looking to collaborate on my school projects
